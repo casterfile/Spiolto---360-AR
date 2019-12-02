@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DC361E09-6DDB-E206-7664-9DDFAB5C783D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_MyAsset/_Script/EndGame.cs">
+    <Files>
+      <File FileName="Assets/_MyAsset/_Script/VapeController.cs" Line="88" Column="9" />
+      <File FileName="Assets/_MyAsset/_Script/Range.cs" Line="61" Column="13" />
+      <File FileName="Assets/_MyAsset/_Script/Enemy.cs" Line="18" Column="1" />
+      <File FileName="Assets/_MyAsset/_Script/Player.cs" Line="43" Column="1" />
+      <File FileName="Assets/_MyAsset/_Script/EndGame.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spiolto - 360 AR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_MyAsset" expanded="True">
+                <Node name="_Script" expanded="True">
+                  <Node name="EndGame.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Spiolto_220-_220360_220AR PreferredExecutionTarget="b228d27c-839b-4d94-9596-8499db5f2333" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
